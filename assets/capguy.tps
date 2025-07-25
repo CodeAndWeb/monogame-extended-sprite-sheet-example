@@ -34,7 +34,7 @@
         <key>dataFormat</key>
         <string>monogame-extended</string>
         <key>textureFileName</key>
-        <filename>../Content/textures/spritesheet.png</filename>
+        <filename></filename>
         <key>flipPVR</key>
         <false/>
         <key>pvrQualityLevel</key>
@@ -151,7 +151,7 @@
         <key>globalSpriteSettings</key>
         <struct type="SpriteSettings">
             <key>scale</key>
-            <double>0.5</double>
+            <double>1</double>
             <key>scaleMode</key>
             <enum type="ScaleMode">Smooth</enum>
             <key>extrude</key>
@@ -167,7 +167,7 @@
             <key>heuristicMask</key>
             <false/>
             <key>defaultPivotPoint</key>
-            <point_f>0.5,0.5</point_f>
+            <point_f>0,0</point_f>
             <key>writePivotPoints</key>
             <true/>
         </struct>
@@ -182,9 +182,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>511,384,1022,768</rect>
+                <rect>250,163,500,325</rect>
                 <key>scale9Paddings</key>
-                <rect>511,384,1022,768</rect>
+                <rect>250,163,500,325</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -208,9 +208,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>52,82,103,165</rect>
+                <rect>26,41,52,83</rect>
                 <key>scale9Paddings</key>
-                <rect>52,82,103,165</rect>
+                <rect>26,41,52,83</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -238,9 +238,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>47,81,93,162</rect>
+                <rect>24,41,47,81</rect>
                 <key>scale9Paddings</key>
-                <rect>47,81,93,162</rect>
+                <rect>24,41,47,81</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
