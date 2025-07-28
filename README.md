@@ -1,6 +1,6 @@
 # MonoGame.Extended sprite sheet example
 
-This project demonstrates how to use sprite sheet with [MonoGame.Extended](https://https://www.monogameextended.net), featuring an animated character walking across a city-themed background.
+This project demonstrates how to use sprite sheet with [MonoGame.Extended](https://www.monogameextended.net), featuring an animated character walking across a city-themed background.
 
 <a href="https://www.codeandweb.com/texturepacker/tutorials/how-to-use-sprite-sheets-with-monogame-extended">
 
